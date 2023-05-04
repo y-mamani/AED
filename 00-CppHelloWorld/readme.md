@@ -2,10 +2,10 @@
 
 + Trabajo Práctico 0
 
-+Comision: K1051
++ Comision: K1051
 
-+2023
++ 2023
 
-+Legajo: 209.065-0
++ Legajo: 209.065-0
 
-+Yesica Mamani
++ Yesica Mamani
