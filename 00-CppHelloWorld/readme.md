@@ -9,3 +9,5 @@
 + Legajo: 209.065-0
 
 + Yesica Mamani
+
++ El compilador utilizado es MinGW
